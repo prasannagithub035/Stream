@@ -21,7 +21,12 @@ ________________________________________________________________________________
 To install streamlit package follow the below steps,
 
 1. Install python version < 3.7
+2. Install streamlit
 
+```bash
+pip install streamlit
+streamlit <project_name> # to create streamlit project
+```
 
 # Run and Demo
 ________________________________________________________________________________________

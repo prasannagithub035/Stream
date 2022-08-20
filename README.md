@@ -1,4 +1,4 @@
-# Streamlite app with sqlite3 data base 
+# Streamlit app with sqlite3 data base 
 
 Introduction
 

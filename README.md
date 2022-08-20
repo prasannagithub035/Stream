@@ -1,8 +1,8 @@
 Streamlite app with sqlite3 data base  
 
-<b>Introduction<\b>
+Introduction
 
-<b>Installation<\b>
+Installation
 
 Run and Demo
 

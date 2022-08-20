@@ -12,7 +12,7 @@ Author and Thanks
 
 # Introduction
 _______________________________________________________________________________________
-Streamlit python package provides quick to develop ststic and dynamic web applications similar with Django, flask and other python web framework.
+Streamlit python package provides quick to develop static and dynamic web applications similar with Django, flask and other python web framework.
 
 To understand streamlit package go to official documentation.
 
